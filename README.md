@@ -1,2 +1,4 @@
 # yandex_practicum_projects
-A public repository with some my practical work during the Yandex.Practicum course Data Scientist
+#Репозиторий Бадыкшанова Нияза с некоторыми практическими проектами по курсу "Специалист по Data Science" от Яндекс.Практикум
+
+##Содержание
