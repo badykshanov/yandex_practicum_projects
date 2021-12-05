@@ -17,19 +17,10 @@
 2.	эффективность обогащения финального концентрата final.output.recovery.
 
 Метрика качества модели:
-- <img src="https://latex.codecogs.com/gif.latex?
-\begin{matrix}
-  Итоговое \\
-  sMAPE
- \end{matrix} = 25\% \times sMAPE(rougher) + 75\% \times sMAPE(final)
-" /> 
 
-где:
+Итоговое sMAPE = 25% sMAPE(rougher) + 75% sMAPE(final)
 
-$$ sMAPE = \frac{1}{N} \sum_{i=1}^{N} \frac{| y_i - \hat{y}_i |}{(|y_i| + |\hat{y}_i|) / 2} \times 100\% $$
-
-* $y_i$ - Значение целевого признака для объекта с порядковым номером i в выборке, на которой измеряется качество.
-* $\hat{y}_i$ - Значение предсказания для объекта с порядковым номером i, например, в тестовой выборке.
+ sMAPE (англ. Symmetric Mean Absolute Percentage Error, «симметричное среднее абсолютное процентное отклонение»
 
 # Используемые библиотеки
 
@@ -40,5 +31,3 @@ $$ sMAPE = \frac{1}{N} \sum_{i=1}^{N} \frac{| y_i - \hat{y}_i |}{(|y_i| + |\hat{
 - numpy
 - pylab
 - sklearn
-
-- <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
