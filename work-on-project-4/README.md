@@ -24,4 +24,10 @@
   
 # Используемые библиотеки
 
-pandas; os; math; seaborn; numpy; matplotlib; scipy
+- pandas
+- os
+- math
+- seaborn
+- numpy
+- matplotlib
+- scipy
