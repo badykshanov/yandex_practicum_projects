@@ -23,6 +23,7 @@ $\begin{matrix}
  \end{matrix} = 25\% \times sMAPE(rougher) + 75\% \times sMAPE(final) $
 
 где:
+
 $sMAPE = \frac{1}{N} \sum_{i=1}^{N} \frac{| y_i - \hat{y}_i |}{(|y_i| + |\hat{y}_i|) / 2} \times 100\% $
 
 * $y_i$ - Значение целевого признака для объекта с порядковым номером i в выборке, на которой измеряется качество.
