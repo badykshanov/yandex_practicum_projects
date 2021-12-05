@@ -20,7 +20,7 @@
 
 Итоговое sMAPE = 25% sMAPE(rougher) + 75% sMAPE(final)
 
- sMAPE (англ. Symmetric Mean Absolute Percentage Error, «симметричное среднее абсолютное процентное отклонение»
+sMAPE (англ. Symmetric Mean Absolute Percentage Error, «симметричное среднее абсолютное процентное отклонение»
 
 # Используемые библиотеки
 
