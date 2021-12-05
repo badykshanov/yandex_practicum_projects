@@ -17,10 +17,12 @@
 2.	эффективность обогащения финального концентрата final.output.recovery.
 
 Метрика качества модели:
-\\( \begin{matrix}
+```math
+\begin{matrix}
   Итоговое \\
   sMAPE
- \end{matrix} = 25\% \times sMAPE(rougher) + 75\% \times sMAPE(final) \\)
+ \end{matrix} = 25\% \times sMAPE(rougher) + 75\% \times sMAPE(final)
+ ```
 
 где:
 
