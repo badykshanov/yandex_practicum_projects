@@ -38,3 +38,7 @@ $$ sMAPE = \frac{1}{N} \sum_{i=1}^{N} \frac{| y_i - \hat{y}_i |}{(|y_i| + |\hat{
 - numpy
 - pylab
 - sklearn
+
+```math
+a^2+b^2=c^2
+```
