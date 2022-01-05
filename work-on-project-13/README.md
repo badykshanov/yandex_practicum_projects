@@ -2,7 +2,7 @@
 
 ## Данные
 
-Папка с фотографиями ChaLearn Looking at People: (224, 224, 3) (цветные)
+- папка с фотографиями ChaLearn Looking at People: (224, 224, 3)
 
 - file_name — имя фотограции
 
